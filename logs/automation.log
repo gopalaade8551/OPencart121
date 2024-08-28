@@ -1,0 +1,19 @@
+00:32:27.351 [main] INFO  testcases.TC_001_AccountRegistration- Finished Starting TC_001_AccountRegistration 
+00:32:32.554 [main] INFO  testcases.TC_002_Login- **** TC_002_Login   ***********
+00:32:34.241 [main] INFO  testcases.TC_002_Login- ***Finished TC_002_Login  *** 
+00:46:20.552 [main] INFO  testcases.TC_001_AccountRegistration- Starting TC_001_AccountRegistration
+00:46:20.668 [main] INFO  testcases.TC_001_AccountRegistration- clicked on My Account link
+00:46:24.283 [main] INFO  testcases.TC_001_AccountRegistration- clicked on register link
+00:46:27.308 [main] INFO  testcases.TC_001_AccountRegistration- providing customer details
+00:46:28.671 [main] INFO  testcases.TC_001_AccountRegistration- Validating expected message
+00:46:28.744 [main] INFO  testcases.TC_001_AccountRegistration- Finished Starting TC_001_AccountRegistration 
+00:46:34.190 [main] INFO  testcases.TC_002_Login- **** TC_002_Login   ***********
+00:46:35.674 [main] INFO  testcases.TC_002_Login- ***Finished TC_002_Login  *** 
+00:51:46.678 [main] INFO  testcases.TC_001_AccountRegistration- Starting TC_001_AccountRegistration
+00:51:46.775 [main] INFO  testcases.TC_001_AccountRegistration- clicked on My Account link
+00:51:50.381 [main] INFO  testcases.TC_001_AccountRegistration- clicked on register link
+00:51:53.390 [main] INFO  testcases.TC_001_AccountRegistration- providing customer details
+00:51:54.845 [main] INFO  testcases.TC_001_AccountRegistration- Validating expected message
+00:51:54.898 [main] INFO  testcases.TC_001_AccountRegistration- Finished Starting TC_001_AccountRegistration 
+00:52:01.107 [main] INFO  testcases.TC_002_Login- **** TC_002_Login   ***********
+00:52:03.183 [main] INFO  testcases.TC_002_Login- ***Finished TC_002_Login  *** 

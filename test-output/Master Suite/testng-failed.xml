@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Master Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="test(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testcases.TC_003_LoginDDT">
+        <methods>
+          <include name="TestLogin_1"/>
+          <include name="setup"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- testcases.TC_003_LoginDDT -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Master Suite] -->
